@@ -8,4 +8,5 @@ My professional journey has been centered around leveraging cutting-edge technol
 In addition to my technical prowess, I am deeply committed to knowledge dissemination and community enrichment. My engagement spans mentoring junior developers to crafting enlightening blog posts, contributing to industry discourse, and fostering collaborative growth. I maintain an active blog, diligently updated with the latest trends and insights encompassing Azure, .NET, NodeJs, and Infrastructure as Code.
 
 Warm regards,
+
 Steven

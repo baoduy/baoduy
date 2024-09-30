@@ -1,4 +1,4 @@
-![Header](./Github Profile Header.png)
+![Header](./Github-Profile-Header.png)
 # Steven Hoang
 (Hoang Bao Duy)
 

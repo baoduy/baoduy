@@ -1,4 +1,4 @@
-![Header](./Github-Profile-Header.png)
+![Header](./github-profile-v2.png)
 
 # 💫 About Me :
 
